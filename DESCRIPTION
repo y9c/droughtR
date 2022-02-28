@@ -22,8 +22,7 @@ Imports:
     MLmetrics,
     gamlss,
     forecast,
-    wavelets,
-    droughtR
+    wavelets
 Suggests: 
     rmarkdown,
     knitr,
