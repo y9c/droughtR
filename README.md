@@ -15,7 +15,7 @@ calculated incorrectly during out-of-sample (OOS) validation.
 
 ``` r
 # Install the development version on Github
-devtools::install_github("mammask/droughtR")
+devtools::install_github("y9c/droughtR")
 ```
 
 ## Usage
